@@ -7,6 +7,7 @@
   <ol>
     <li>Beauty and the Beast</li>
     <li>Peter Pan</li>
+    <li>Cinderella</li>
 </body>
 
 </html>
